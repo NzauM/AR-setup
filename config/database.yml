@@ -1,0 +1,9 @@
+# environment, adapter, database
+development:
+  adapter: "sqlite3"
+  database: "db/taksi.sqlite"
+
+test:
+  adapter: "sqlite3"
+  database: "db/taksitest.sqlite"
+
